@@ -41,7 +41,7 @@ module.exports = function(/* ctx */) {
       vueRouterMode: "hash", // available values: 'hash', 'history'
       env: {
         LOCAL: "http://localhost:5000",
-        API: "https://todolisa-api.herokuapp.com"
+        API: "https://todolisa.herokuapp.com"
       },
 
       // transpile: false,

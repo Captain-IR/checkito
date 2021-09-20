@@ -1,3 +1,3 @@
 # Todolisa
 
-> Interesting To-Do list app build with, Node, GraphQl and Quasar Framework.
+> Interesting To-Do list app build with, Node, GraphQL and Quasar Framework.

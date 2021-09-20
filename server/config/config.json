@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "bea64eaba179cb",
+    "password": "489ae09e",
+    "database": "heroku_558b36d680d1e25",
+    "host": "eu-cdbr-west-03.cleardb.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "oqubkzdlrkpneo",
+    "password": "822067c8c38bcc1b372eb39032b488bd79e74e02f6a897149a31604b272bd46d",
+    "database": "d17rk0s0qqb1rr",
+    "host": "ec2-54-155-254-112.eu-west-1.compute.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
